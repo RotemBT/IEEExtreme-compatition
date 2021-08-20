@@ -10,17 +10,25 @@ Magic Square
 # IEEEXtreme 9.0:
 
 Digit Fun!
+
 Zoom In
+
 Shortening In The Real World
+
 Taco Stand
+
 Car Spark
+
 Mr. Pipo Pizza
 
 # IEEEXtreme 10.0:
 
 Food Truck
+
 Counting Molecules
+
 Game Of Stones
+
 Flower Game
 
 # IEEEXtreme 11.0:
@@ -30,5 +38,7 @@ Aenea's Cryptographic Disc
 # IEEEXtreme 12.0:
 
 Telescope Schduling
+
 Bit Soccer
+
 Lemons
